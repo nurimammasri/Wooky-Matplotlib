@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="/Images/numpy.png"  width="270"></img>
+  <img align="center" src="/images/matplotlib.png"  width="270"></img>
 <br>
 Wooky Matplotlib
 </h1>
